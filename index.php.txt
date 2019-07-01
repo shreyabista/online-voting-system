@@ -1,0 +1,18 @@
+<!DOCTYPE  html>
+<head>
+<title> index </title>
+<body>
+<form class ="form" action ="process.php"method ="post" >
+<p>name:input type ="text" name ="name" placeholder="enter your name here "</p>
+<p>address:input type ="text" name ="address" placeholder="enter your address here "</p>
+ <p>email:input type ="email" name ="email" placeholder="enter your email here "</p>
+<p>date:input type ="date" name ="date"</p>
+<input type="submit" value ="submit">
+<input type="reset" value="reset">
+ 
+</form>
+</body>
+</html>
+ 
+ 
+ 
